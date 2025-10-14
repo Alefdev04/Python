@@ -1,6 +1,4 @@
 # Python
-Aprendendo Array no curso de ADS na Fatec Santana de Parnaíba
+Curso do Gustavo Guanabara CursoEmVideo
 
-
-# C / C++
-Estou aprendendo a programar em C no curso de ADS na Fatec Santana de Parnaíba
+Estou aprendendo a Manipular texto no python
